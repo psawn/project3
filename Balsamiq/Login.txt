@@ -1,0 +1,197 @@
+{
+    "mockup": {
+        "controls": {
+            "control": [
+                {
+                    "ID": "0",
+                    "typeID": "BrowserWindow",
+                    "zOrder": "0",
+                    "w": "800",
+                    "h": "550",
+                    "measuredW": "450",
+                    "measuredH": "400",
+                    "x": "42",
+                    "y": "19",
+                    "properties": {
+                        "text": "\nbootstrapadminmockup.com/login"
+                    }
+                },
+                {
+                    "ID": "1",
+                    "typeID": "TextArea",
+                    "zOrder": "1",
+                    "w": "248",
+                    "h": "217",
+                    "measuredW": "200",
+                    "measuredH": "140",
+                    "x": "317",
+                    "y": "192"
+                },
+                {
+                    "ID": "2",
+                    "typeID": "Canvas",
+                    "zOrder": "2",
+                    "w": "249",
+                    "h": "38",
+                    "measuredW": "100",
+                    "measuredH": "70",
+                    "x": "317",
+                    "y": "160",
+                    "properties": {
+                        "color": "13421772"
+                    }
+                },
+                {
+                    "ID": "3",
+                    "typeID": "Paragraph",
+                    "zOrder": "3",
+                    "w": "46",
+                    "h": "26",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "419",
+                    "y": "166",
+                    "properties": {
+                        "text": "Login",
+                        "size": "16"
+                    }
+                },
+                {
+                    "ID": "4",
+                    "typeID": "Label",
+                    "zOrder": "4",
+                    "measuredW": "33",
+                    "measuredH": "21",
+                    "x": "333",
+                    "y": "208",
+                    "properties": {
+                        "text": "Email"
+                    }
+                },
+                {
+                    "ID": "7",
+                    "typeID": "TextInput",
+                    "zOrder": "5",
+                    "w": "217",
+                    "measuredW": "79",
+                    "measuredH": "27",
+                    "x": "333",
+                    "y": "228"
+                },
+                {
+                    "ID": "8",
+                    "typeID": "Label",
+                    "zOrder": "6",
+                    "w": "63",
+                    "measuredW": "56",
+                    "measuredH": "21",
+                    "x": "333",
+                    "y": "252",
+                    "properties": {
+                        "text": "Password"
+                    }
+                },
+                {
+                    "ID": "9",
+                    "typeID": "TextInput",
+                    "zOrder": "7",
+                    "w": "217",
+                    "measuredW": "79",
+                    "measuredH": "27",
+                    "x": "333",
+                    "y": "272"
+                },
+                {
+                    "ID": "10",
+                    "typeID": "CheckBox",
+                    "zOrder": "8",
+                    "measuredW": "138",
+                    "measuredH": "23",
+                    "x": "333",
+                    "y": "299",
+                    "properties": {
+                        "text": "Rememer password"
+                    }
+                },
+                {
+                    "ID": "11",
+                    "typeID": "Label",
+                    "zOrder": "9",
+                    "measuredW": "108",
+                    "measuredH": "21",
+                    "x": "333",
+                    "y": "338",
+                    "properties": {
+                        "text": "Forgot Password ?",
+                        "color": "2848996"
+                    }
+                },
+                {
+                    "ID": "12",
+                    "typeID": "Label",
+                    "zOrder": "11",
+                    "measuredW": "33",
+                    "measuredH": "21",
+                    "x": "502",
+                    "y": "338",
+                    "properties": {
+                        "text": "Login"
+                    }
+                },
+                {
+                    "ID": "13",
+                    "typeID": "Canvas",
+                    "zOrder": "10",
+                    "w": "45",
+                    "h": "33",
+                    "measuredW": "100",
+                    "measuredH": "70",
+                    "x": "496",
+                    "y": "332",
+                    "properties": {
+                        "color": "2848996"
+                    }
+                },
+                {
+                    "ID": "14",
+                    "typeID": "Label",
+                    "zOrder": "13",
+                    "measuredW": "158",
+                    "measuredH": "21",
+                    "x": "370",
+                    "y": "381",
+                    "properties": {
+                        "text": "Need an account? Sign up!",
+                        "color": "2848996"
+                    }
+                },
+                {
+                    "ID": "15",
+                    "typeID": "Canvas",
+                    "zOrder": "12",
+                    "w": "248",
+                    "h": "33",
+                    "measuredW": "100",
+                    "measuredH": "70",
+                    "x": "317",
+                    "y": "375",
+                    "properties": {
+                        "color": "13421772"
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "name": "Login",
+            "order": 1000044.891860684,
+            "parentID": null
+        },
+        "branchID": "Master",
+        "resourceID": "22625063-DDC2-434D-94C0-EAE78960CC5B",
+        "mockupH": "550",
+        "mockupW": "800",
+        "measuredW": "842",
+        "measuredH": "569",
+        "version": "1.0"
+    }
+}

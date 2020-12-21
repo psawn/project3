@@ -1,0 +1,393 @@
+{
+    "mockup": {
+        "controls": {
+            "control": [
+                {
+                    "ID": "0",
+                    "typeID": "TextArea",
+                    "zOrder": "0",
+                    "w": "73",
+                    "h": "68",
+                    "measuredW": "200",
+                    "measuredH": "140",
+                    "x": "273",
+                    "y": "253"
+                },
+                {
+                    "ID": "1",
+                    "typeID": "BrowserWindow",
+                    "zOrder": "1",
+                    "w": "800",
+                    "h": "550",
+                    "measuredW": "450",
+                    "measuredH": "400",
+                    "x": "42",
+                    "y": "19",
+                    "properties": {
+                        "text": "\nbootstrapadminmockup.com/charts"
+                    }
+                },
+                {
+                    "ID": "2",
+                    "typeID": "IconLabel",
+                    "zOrder": "2",
+                    "w": "39",
+                    "measuredW": "16",
+                    "measuredH": "31",
+                    "x": "124",
+                    "y": "103",
+                    "properties": {
+                        "icon": {
+                            "ID": "angle-double-right",
+                            "size": "xsmall"
+                        },
+                        "text": ""
+                    }
+                },
+                {
+                    "ID": "3",
+                    "typeID": "IconLabel",
+                    "zOrder": "3",
+                    "w": "39",
+                    "measuredW": "16",
+                    "measuredH": "31",
+                    "x": "124",
+                    "y": "125",
+                    "properties": {
+                        "icon": {
+                            "ID": "angle-double-right",
+                            "size": "xsmall"
+                        },
+                        "text": ""
+                    }
+                },
+                {
+                    "ID": "4",
+                    "typeID": "IconLabel",
+                    "zOrder": "4",
+                    "w": "39",
+                    "measuredW": "16",
+                    "measuredH": "31",
+                    "x": "124",
+                    "y": "145",
+                    "properties": {
+                        "icon": {
+                            "ID": "angle-double-right",
+                            "size": "xsmall"
+                        },
+                        "text": ""
+                    }
+                },
+                {
+                    "ID": "5",
+                    "typeID": "TextArea",
+                    "zOrder": "5",
+                    "w": "798",
+                    "h": "30",
+                    "measuredW": "200",
+                    "measuredH": "140",
+                    "x": "43",
+                    "y": "76",
+                    "properties": {
+                        "text": "                                     Chart\n"
+                    }
+                },
+                {
+                    "ID": "6",
+                    "typeID": "VRule",
+                    "zOrder": "6",
+                    "h": "299",
+                    "measuredW": "10",
+                    "measuredH": "100",
+                    "x": "163",
+                    "y": "78"
+                },
+                {
+                    "ID": "7",
+                    "typeID": "Icon",
+                    "zOrder": "7",
+                    "measuredW": "24",
+                    "measuredH": "24",
+                    "x": "43",
+                    "y": "77",
+                    "properties": {
+                        "icon": {
+                            "ID": "bars",
+                            "size": "small"
+                        },
+                        "borderStyle": "square"
+                    }
+                },
+                {
+                    "ID": "8",
+                    "typeID": "List",
+                    "zOrder": "8",
+                    "w": "126",
+                    "h": "439",
+                    "measuredW": "100",
+                    "measuredH": "126",
+                    "x": "43",
+                    "y": "103",
+                    "properties": {
+                        "icons": {
+                            "icons": [
+                                {
+                                    "ID": "th-large",
+                                    "size": "small"
+                                },
+                                {
+                                    "ID": "bar-chart",
+                                    "size": "small"
+                                },
+                                {
+                                    "ID": "table",
+                                    "size": "small"
+                                },
+                                {
+                                    "ID": "sign-in",
+                                    "size": "small"
+                                }
+                            ]
+                        },
+                        "text": "Home\nCharts\nTables\nLogin",
+                        "color": "6710886",
+                        "alternateRowColor": "6710886",
+                        "hrefs": {
+                            "href": [
+                                {
+                                    "ID": "38ABA77D-EB7D-4D43-8EA7-3DF995B82665"
+                                },
+                                {
+                                    "ID": "36500102-1988-4E0C-A875-D5A637878F85"
+                                },
+                                {
+                                    "ID": "617ED0C6-DB59-4680-B583-CED1CD4A4630"
+                                },
+                                {
+                                    "ID": "22625063-DDC2-434D-94C0-EAE78960CC5B"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "ID": "9",
+                    "typeID": "FieldSet",
+                    "zOrder": "9",
+                    "w": "625",
+                    "h": "178",
+                    "measuredW": "200",
+                    "measuredH": "170",
+                    "x": "196",
+                    "y": "115",
+                    "properties": {
+                        "text": "Area Chart"
+                    }
+                },
+                {
+                    "ID": "10",
+                    "typeID": "Icon",
+                    "zOrder": "10",
+                    "measuredW": "128",
+                    "measuredH": "128",
+                    "x": "445",
+                    "y": "133",
+                    "properties": {
+                        "icon": {
+                            "ID": "area-chart",
+                            "size": "xxlarge"
+                        }
+                    }
+                },
+                {
+                    "ID": "11",
+                    "typeID": "SearchBox",
+                    "zOrder": "11",
+                    "w": "98",
+                    "measuredW": "120",
+                    "measuredH": "23",
+                    "x": "676",
+                    "y": "79",
+                    "properties": {
+                        "size": "11"
+                    }
+                },
+                {
+                    "ID": "12",
+                    "typeID": "Icon",
+                    "zOrder": "12",
+                    "measuredW": "24",
+                    "measuredH": "24",
+                    "x": "803",
+                    "y": "79",
+                    "properties": {
+                        "icon": {
+                            "ID": "user",
+                            "size": "small"
+                        }
+                    }
+                },
+                {
+                    "ID": "13",
+                    "typeID": "Icon",
+                    "zOrder": "13",
+                    "measuredW": "16",
+                    "measuredH": "16",
+                    "x": "821",
+                    "y": "83",
+                    "properties": {
+                        "icon": {
+                            "ID": "angle-down",
+                            "size": "xsmall"
+                        }
+                    }
+                },
+                {
+                    "ID": "14",
+                    "typeID": "FieldSet",
+                    "zOrder": "14",
+                    "w": "343",
+                    "h": "166",
+                    "measuredW": "200",
+                    "measuredH": "170",
+                    "x": "478",
+                    "y": "309",
+                    "properties": {
+                        "text": "Pie Chart"
+                    }
+                },
+                {
+                    "ID": "15",
+                    "typeID": "FieldSet",
+                    "zOrder": "15",
+                    "w": "233",
+                    "h": "167",
+                    "measuredW": "200",
+                    "measuredH": "170",
+                    "x": "196",
+                    "y": "309",
+                    "properties": {
+                        "text": "Bar Chart"
+                    }
+                },
+                {
+                    "ID": "16",
+                    "typeID": "Icon",
+                    "zOrder": "16",
+                    "measuredW": "128",
+                    "measuredH": "128",
+                    "x": "586",
+                    "y": "332",
+                    "properties": {
+                        "icon": {
+                            "ID": "pie-chart",
+                            "size": "xxlarge"
+                        }
+                    }
+                },
+                {
+                    "ID": "17",
+                    "typeID": "Icon",
+                    "zOrder": "17",
+                    "measuredW": "128",
+                    "measuredH": "128",
+                    "x": "249",
+                    "y": "332",
+                    "properties": {
+                        "icon": {
+                            "ID": "bar-chart",
+                            "size": "xxlarge"
+                        }
+                    }
+                },
+                {
+                    "ID": "18",
+                    "typeID": "Canvas",
+                    "zOrder": "18",
+                    "w": "233",
+                    "h": "26",
+                    "measuredW": "100",
+                    "measuredH": "70",
+                    "x": "196",
+                    "y": "459"
+                },
+                {
+                    "ID": "19",
+                    "typeID": "Paragraph",
+                    "zOrder": "19",
+                    "w": "187",
+                    "h": "26",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "206",
+                    "y": "459",
+                    "properties": {
+                        "text": "Last updated at 3 days ago"
+                    }
+                },
+                {
+                    "ID": "20",
+                    "typeID": "Canvas",
+                    "zOrder": "20",
+                    "w": "625",
+                    "h": "23",
+                    "measuredW": "100",
+                    "measuredH": "70",
+                    "x": "196",
+                    "y": "270"
+                },
+                {
+                    "ID": "21",
+                    "typeID": "Paragraph",
+                    "zOrder": "21",
+                    "w": "178",
+                    "h": "26",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "206",
+                    "y": "269",
+                    "properties": {
+                        "text": "Updated 2 hours ago"
+                    }
+                },
+                {
+                    "ID": "22",
+                    "typeID": "Canvas",
+                    "zOrder": "22",
+                    "w": "343",
+                    "h": "23",
+                    "measuredW": "100",
+                    "measuredH": "70",
+                    "x": "478",
+                    "y": "460"
+                },
+                {
+                    "ID": "23",
+                    "typeID": "Paragraph",
+                    "zOrder": "23",
+                    "w": "144",
+                    "h": "26",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "486",
+                    "y": "459",
+                    "properties": {
+                        "text": "Updated a  month ago"
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "name": "Charts",
+            "order": 1000022.8668551691,
+            "parentID": null
+        },
+        "branchID": "Master",
+        "resourceID": "36500102-1988-4E0C-A875-D5A637878F85",
+        "mockupH": "550",
+        "mockupW": "800",
+        "measuredW": "842",
+        "measuredH": "569",
+        "version": "1.0"
+    }
+}

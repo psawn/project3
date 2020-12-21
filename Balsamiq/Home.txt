@@ -1,0 +1,475 @@
+{
+    "mockup": {
+        "controls": {
+            "control": [
+                {
+                    "ID": "0",
+                    "typeID": "BrowserWindow",
+                    "zOrder": "1",
+                    "w": "800",
+                    "h": "550",
+                    "measuredW": "450",
+                    "measuredH": "400",
+                    "x": "43",
+                    "y": "77",
+                    "properties": {
+                        "text": "\ndoanducbao.com/home"
+                    }
+                },
+                {
+                    "ID": "6",
+                    "typeID": "Icon",
+                    "zOrder": "15",
+                    "measuredW": "24",
+                    "measuredH": "24",
+                    "x": "44",
+                    "y": "135",
+                    "properties": {
+                        "icon": {
+                            "ID": "bars",
+                            "size": "small"
+                        },
+                        "borderStyle": "square"
+                    }
+                },
+                {
+                    "ID": "15",
+                    "typeID": "List",
+                    "zOrder": "16",
+                    "w": "126",
+                    "h": "439",
+                    "measuredW": "100",
+                    "measuredH": "126",
+                    "x": "44",
+                    "y": "161",
+                    "properties": {
+                        "icons": {
+                            "icons": [
+                                {
+                                    "ID": "th-large",
+                                    "size": "small"
+                                },
+                                {
+                                    "ID": "bar-chart",
+                                    "size": "small"
+                                },
+                                {
+                                    "ID": "table",
+                                    "size": "small"
+                                },
+                                {
+                                    "ID": "sign-in",
+                                    "size": "small"
+                                }
+                            ]
+                        },
+                        "text": "Home\nCharts\nTables\nLogin",
+                        "color": "6710886",
+                        "alternateRowColor": "6710886",
+                        "hrefs": {
+                            "href": [
+                                {
+                                    "ID": "38ABA77D-EB7D-4D43-8EA7-3DF995B82665"
+                                },
+                                {
+                                    "ID": "36500102-1988-4E0C-A875-D5A637878F85"
+                                },
+                                {
+                                    "ID": "617ED0C6-DB59-4680-B583-CED1CD4A4630"
+                                },
+                                {
+                                    "ID": "22625063-DDC2-434D-94C0-EAE78960CC5B"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "ID": "16",
+                    "typeID": "VRule",
+                    "zOrder": "6",
+                    "h": "299",
+                    "measuredW": "10",
+                    "measuredH": "100",
+                    "x": "164",
+                    "y": "136"
+                },
+                {
+                    "ID": "20",
+                    "typeID": "IconLabel",
+                    "zOrder": "2",
+                    "w": "39",
+                    "measuredW": "16",
+                    "measuredH": "31",
+                    "x": "125",
+                    "y": "161",
+                    "properties": {
+                        "icon": {
+                            "ID": "angle-double-right",
+                            "size": "xsmall"
+                        },
+                        "text": ""
+                    }
+                },
+                {
+                    "ID": "21",
+                    "typeID": "IconLabel",
+                    "zOrder": "3",
+                    "w": "39",
+                    "measuredW": "16",
+                    "measuredH": "31",
+                    "x": "125",
+                    "y": "183",
+                    "properties": {
+                        "icon": {
+                            "ID": "angle-double-right",
+                            "size": "xsmall"
+                        },
+                        "text": ""
+                    }
+                },
+                {
+                    "ID": "22",
+                    "typeID": "IconLabel",
+                    "zOrder": "4",
+                    "w": "39",
+                    "measuredW": "16",
+                    "measuredH": "31",
+                    "x": "125",
+                    "y": "203",
+                    "properties": {
+                        "icon": {
+                            "ID": "angle-double-right",
+                            "size": "xsmall"
+                        },
+                        "text": ""
+                    }
+                },
+                {
+                    "ID": "23",
+                    "typeID": "TextArea",
+                    "zOrder": "5",
+                    "w": "798",
+                    "h": "30",
+                    "measuredW": "200",
+                    "measuredH": "140",
+                    "x": "44",
+                    "y": "134",
+                    "properties": {
+                        "text": "                                     Dashboard\n"
+                    }
+                },
+                {
+                    "ID": "28",
+                    "typeID": "List",
+                    "zOrder": "7",
+                    "w": "100",
+                    "h": "45",
+                    "measuredW": "100",
+                    "measuredH": "126",
+                    "x": "197",
+                    "y": "167",
+                    "properties": {
+                        "text": "Primary Card\nView Details",
+                        "color": "2848996",
+                        "alternateRowColor": "2848996"
+                    }
+                },
+                {
+                    "ID": "29",
+                    "typeID": "List",
+                    "zOrder": "8",
+                    "w": "100",
+                    "h": "45",
+                    "measuredW": "100",
+                    "measuredH": "126",
+                    "x": "722",
+                    "y": "167",
+                    "properties": {
+                        "text": "Danger Card\nView Details",
+                        "color": "13576743",
+                        "alternateRowColor": "13576743"
+                    }
+                },
+                {
+                    "ID": "30",
+                    "typeID": "List",
+                    "zOrder": "9",
+                    "w": "100",
+                    "h": "45",
+                    "measuredW": "100",
+                    "measuredH": "126",
+                    "x": "536",
+                    "y": "167",
+                    "properties": {
+                        "text": "Success Card\nView Details",
+                        "color": "40463",
+                        "alternateRowColor": "40463"
+                    }
+                },
+                {
+                    "ID": "31",
+                    "typeID": "List",
+                    "zOrder": "10",
+                    "w": "100",
+                    "h": "45",
+                    "measuredW": "100",
+                    "measuredH": "126",
+                    "x": "383",
+                    "y": "167",
+                    "properties": {
+                        "text": "Warning Card\nView Details",
+                        "color": "16776960",
+                        "alternateRowColor": "16776960"
+                    }
+                },
+                {
+                    "ID": "34",
+                    "typeID": "Icon",
+                    "zOrder": "20",
+                    "measuredW": "48",
+                    "measuredH": "48",
+                    "x": "316",
+                    "y": "250",
+                    "properties": {
+                        "icon": {
+                            "ID": "area-chart",
+                            "size": "large"
+                        }
+                    }
+                },
+                {
+                    "ID": "35",
+                    "typeID": "Icon",
+                    "zOrder": "22",
+                    "measuredW": "48",
+                    "measuredH": "48",
+                    "x": "655",
+                    "y": "250",
+                    "properties": {
+                        "icon": {
+                            "ID": "bar-chart",
+                            "size": "large"
+                        }
+                    }
+                },
+                {
+                    "ID": "36",
+                    "typeID": "HRule",
+                    "zOrder": "11",
+                    "measuredW": "100",
+                    "measuredH": "10",
+                    "x": "197",
+                    "y": "185"
+                },
+                {
+                    "ID": "37",
+                    "typeID": "HRule",
+                    "zOrder": "12",
+                    "measuredW": "100",
+                    "measuredH": "10",
+                    "x": "722",
+                    "y": "185"
+                },
+                {
+                    "ID": "38",
+                    "typeID": "HRule",
+                    "zOrder": "13",
+                    "measuredW": "100",
+                    "measuredH": "10",
+                    "x": "383",
+                    "y": "185"
+                },
+                {
+                    "ID": "39",
+                    "typeID": "HRule",
+                    "zOrder": "14",
+                    "measuredW": "100",
+                    "measuredH": "10",
+                    "x": "536",
+                    "y": "185"
+                },
+                {
+                    "ID": "42",
+                    "typeID": "List",
+                    "zOrder": "17",
+                    "w": "625",
+                    "h": "286",
+                    "measuredW": "132",
+                    "measuredH": "126",
+                    "x": "197",
+                    "y": "314",
+                    "properties": {
+                        "text": "Data\nShow  10      Entities\n",
+                        "color": "13421772",
+                        "alternateRowColor": "13421772"
+                    }
+                },
+                {
+                    "ID": "43",
+                    "typeID": "DataGrid",
+                    "zOrder": "18",
+                    "w": "588",
+                    "h": "189",
+                    "measuredW": "345",
+                    "measuredH": "195",
+                    "x": "216",
+                    "y": "381"
+                },
+                {
+                    "ID": "51",
+                    "typeID": "TextArea",
+                    "zOrder": "0",
+                    "w": "73",
+                    "h": "68",
+                    "measuredW": "200",
+                    "measuredH": "140",
+                    "x": "274",
+                    "y": "311"
+                },
+                {
+                    "ID": "52",
+                    "typeID": "FieldSet",
+                    "zOrder": "19",
+                    "w": "286",
+                    "h": "77",
+                    "measuredW": "200",
+                    "measuredH": "170",
+                    "x": "197",
+                    "y": "221",
+                    "properties": {
+                        "text": "Area Chart"
+                    }
+                },
+                {
+                    "ID": "53",
+                    "typeID": "FieldSet",
+                    "zOrder": "21",
+                    "w": "286",
+                    "h": "77",
+                    "measuredW": "200",
+                    "measuredH": "170",
+                    "x": "536",
+                    "y": "221",
+                    "properties": {
+                        "text": "Area Chart"
+                    }
+                },
+                {
+                    "ID": "54",
+                    "typeID": "SearchBox",
+                    "zOrder": "23",
+                    "w": "98",
+                    "measuredW": "120",
+                    "measuredH": "23",
+                    "x": "677",
+                    "y": "137",
+                    "properties": {
+                        "size": "11"
+                    }
+                },
+                {
+                    "ID": "55",
+                    "typeID": "Icon",
+                    "zOrder": "24",
+                    "measuredW": "24",
+                    "measuredH": "24",
+                    "x": "804",
+                    "y": "137",
+                    "properties": {
+                        "icon": {
+                            "ID": "user",
+                            "size": "small"
+                        }
+                    }
+                },
+                {
+                    "ID": "56",
+                    "typeID": "Icon",
+                    "zOrder": "25",
+                    "measuredW": "16",
+                    "measuredH": "16",
+                    "x": "822",
+                    "y": "141",
+                    "properties": {
+                        "icon": {
+                            "ID": "angle-down",
+                            "size": "xsmall"
+                        }
+                    }
+                },
+                {
+                    "ID": "57",
+                    "typeID": "Icon",
+                    "zOrder": "26",
+                    "measuredW": "48",
+                    "measuredH": "48",
+                    "x": "231",
+                    "y": "325",
+                    "properties": {
+                        "icon": {
+                            "ID": "square-o",
+                            "size": "large"
+                        }
+                    }
+                },
+                {
+                    "ID": "58",
+                    "typeID": "Icon",
+                    "zOrder": "27",
+                    "measuredW": "16",
+                    "measuredH": "16",
+                    "x": "256",
+                    "y": "349",
+                    "properties": {
+                        "icon": {
+                            "ID": "angle-down",
+                            "size": "xsmall"
+                        }
+                    }
+                },
+                {
+                    "ID": "59",
+                    "typeID": "Icon",
+                    "zOrder": "28",
+                    "measuredW": "16",
+                    "measuredH": "16",
+                    "x": "256",
+                    "y": "327",
+                    "properties": {
+                        "icon": {
+                            "ID": "angle-up",
+                            "size": "xsmall"
+                        }
+                    }
+                },
+                {
+                    "ID": "61",
+                    "typeID": "MenuBar",
+                    "zOrder": "29",
+                    "w": "145",
+                    "h": "23",
+                    "measuredW": "175",
+                    "measuredH": "32",
+                    "x": "661",
+                    "y": "573",
+                    "properties": {
+                        "text": "Previous 1 2 3 Next"
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "name": "Home",
+            "order": 1000010.6040277795,
+            "parentID": null
+        },
+        "branchID": "Master",
+        "resourceID": "38ABA77D-EB7D-4D43-8EA7-3DF995B82665",
+        "mockupH": "550",
+        "mockupW": "800",
+        "measuredW": "843",
+        "measuredH": "627",
+        "version": "1.0"
+    }
+}

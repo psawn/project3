@@ -1,0 +1,317 @@
+{
+    "mockup": {
+        "controls": {
+            "control": [
+                {
+                    "ID": "0",
+                    "typeID": "TextArea",
+                    "zOrder": "0",
+                    "w": "73",
+                    "h": "68",
+                    "measuredW": "200",
+                    "measuredH": "140",
+                    "x": "273",
+                    "y": "253"
+                },
+                {
+                    "ID": "1",
+                    "typeID": "BrowserWindow",
+                    "zOrder": "1",
+                    "w": "800",
+                    "h": "550",
+                    "measuredW": "450",
+                    "measuredH": "400",
+                    "x": "42",
+                    "y": "19",
+                    "properties": {
+                        "text": "\nbootstrapadminmockup.com/tables"
+                    }
+                },
+                {
+                    "ID": "2",
+                    "typeID": "IconLabel",
+                    "zOrder": "2",
+                    "w": "39",
+                    "measuredW": "16",
+                    "measuredH": "31",
+                    "x": "124",
+                    "y": "103",
+                    "properties": {
+                        "icon": {
+                            "ID": "angle-double-right",
+                            "size": "xsmall"
+                        },
+                        "text": ""
+                    }
+                },
+                {
+                    "ID": "3",
+                    "typeID": "IconLabel",
+                    "zOrder": "3",
+                    "w": "39",
+                    "measuredW": "16",
+                    "measuredH": "31",
+                    "x": "124",
+                    "y": "125",
+                    "properties": {
+                        "icon": {
+                            "ID": "angle-double-right",
+                            "size": "xsmall"
+                        },
+                        "text": ""
+                    }
+                },
+                {
+                    "ID": "4",
+                    "typeID": "IconLabel",
+                    "zOrder": "4",
+                    "w": "39",
+                    "measuredW": "16",
+                    "measuredH": "31",
+                    "x": "124",
+                    "y": "145",
+                    "properties": {
+                        "icon": {
+                            "ID": "angle-double-right",
+                            "size": "xsmall"
+                        },
+                        "text": ""
+                    }
+                },
+                {
+                    "ID": "5",
+                    "typeID": "TextArea",
+                    "zOrder": "5",
+                    "w": "798",
+                    "h": "30",
+                    "measuredW": "200",
+                    "measuredH": "140",
+                    "x": "43",
+                    "y": "76",
+                    "properties": {
+                        "text": "                                     Chart\n"
+                    }
+                },
+                {
+                    "ID": "6",
+                    "typeID": "VRule",
+                    "zOrder": "6",
+                    "h": "299",
+                    "measuredW": "10",
+                    "measuredH": "100",
+                    "x": "163",
+                    "y": "78"
+                },
+                {
+                    "ID": "7",
+                    "typeID": "Icon",
+                    "zOrder": "7",
+                    "measuredW": "24",
+                    "measuredH": "24",
+                    "x": "43",
+                    "y": "77",
+                    "properties": {
+                        "icon": {
+                            "ID": "bars",
+                            "size": "small"
+                        },
+                        "borderStyle": "square"
+                    }
+                },
+                {
+                    "ID": "8",
+                    "typeID": "List",
+                    "zOrder": "8",
+                    "w": "126",
+                    "h": "439",
+                    "measuredW": "100",
+                    "measuredH": "126",
+                    "x": "43",
+                    "y": "103",
+                    "properties": {
+                        "icons": {
+                            "icons": [
+                                {
+                                    "ID": "th-large",
+                                    "size": "small"
+                                },
+                                {
+                                    "ID": "bar-chart",
+                                    "size": "small"
+                                },
+                                {
+                                    "ID": "table",
+                                    "size": "small"
+                                },
+                                {
+                                    "ID": "sign-in",
+                                    "size": "small"
+                                }
+                            ]
+                        },
+                        "text": "Home\nCharts\nTables\nLogin",
+                        "color": "6710886",
+                        "alternateRowColor": "6710886",
+                        "hrefs": {
+                            "href": [
+                                {
+                                    "ID": "38ABA77D-EB7D-4D43-8EA7-3DF995B82665"
+                                },
+                                {
+                                    "ID": "36500102-1988-4E0C-A875-D5A637878F85"
+                                },
+                                {
+                                    "ID": "617ED0C6-DB59-4680-B583-CED1CD4A4630"
+                                },
+                                {
+                                    "ID": "22625063-DDC2-434D-94C0-EAE78960CC5B"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "ID": "9",
+                    "typeID": "SearchBox",
+                    "zOrder": "9",
+                    "w": "98",
+                    "measuredW": "120",
+                    "measuredH": "23",
+                    "x": "676",
+                    "y": "79",
+                    "properties": {
+                        "size": "11"
+                    }
+                },
+                {
+                    "ID": "10",
+                    "typeID": "Icon",
+                    "zOrder": "10",
+                    "measuredW": "24",
+                    "measuredH": "24",
+                    "x": "803",
+                    "y": "79",
+                    "properties": {
+                        "icon": {
+                            "ID": "user",
+                            "size": "small"
+                        }
+                    }
+                },
+                {
+                    "ID": "11",
+                    "typeID": "Icon",
+                    "zOrder": "11",
+                    "measuredW": "16",
+                    "measuredH": "16",
+                    "x": "821",
+                    "y": "83",
+                    "properties": {
+                        "icon": {
+                            "ID": "angle-down",
+                            "size": "xsmall"
+                        }
+                    }
+                },
+                {
+                    "ID": "12",
+                    "typeID": "List",
+                    "zOrder": "12",
+                    "w": "625",
+                    "h": "286",
+                    "measuredW": "132",
+                    "measuredH": "126",
+                    "x": "202",
+                    "y": "125",
+                    "properties": {
+                        "text": "Data\nShow  10      Entities\n",
+                        "color": "13421772",
+                        "alternateRowColor": "13421772"
+                    }
+                },
+                {
+                    "ID": "13",
+                    "typeID": "DataGrid",
+                    "zOrder": "13",
+                    "w": "588",
+                    "h": "189",
+                    "measuredW": "345",
+                    "measuredH": "195",
+                    "x": "221",
+                    "y": "192"
+                },
+                {
+                    "ID": "14",
+                    "typeID": "MenuBar",
+                    "zOrder": "14",
+                    "w": "145",
+                    "h": "23",
+                    "measuredW": "175",
+                    "measuredH": "32",
+                    "x": "664",
+                    "y": "382",
+                    "properties": {
+                        "text": "Previous 1 2 3 Next"
+                    }
+                },
+                {
+                    "ID": "15",
+                    "typeID": "Icon",
+                    "zOrder": "15",
+                    "measuredW": "48",
+                    "measuredH": "48",
+                    "x": "239",
+                    "y": "137",
+                    "properties": {
+                        "icon": {
+                            "ID": "square-o",
+                            "size": "large"
+                        }
+                    }
+                },
+                {
+                    "ID": "16",
+                    "typeID": "Icon",
+                    "zOrder": "16",
+                    "measuredW": "16",
+                    "measuredH": "16",
+                    "x": "263",
+                    "y": "137",
+                    "properties": {
+                        "icon": {
+                            "ID": "angle-up",
+                            "size": "xsmall"
+                        }
+                    }
+                },
+                {
+                    "ID": "17",
+                    "typeID": "Icon",
+                    "zOrder": "17",
+                    "measuredW": "16",
+                    "measuredH": "16",
+                    "x": "263",
+                    "y": "160",
+                    "properties": {
+                        "icon": {
+                            "ID": "angle-down",
+                            "size": "xsmall"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "name": "Tables",
+            "order": 1000035.3171913368,
+            "parentID": null
+        },
+        "branchID": "Master",
+        "resourceID": "617ED0C6-DB59-4680-B583-CED1CD4A4630",
+        "mockupH": "550",
+        "mockupW": "800",
+        "measuredW": "842",
+        "measuredH": "569",
+        "version": "1.0"
+    }
+}
