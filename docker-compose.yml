@@ -1,0 +1,33 @@
+version: "3"
+
+services:
+  mysql:
+    image: 583a1e2224dd
+    networks:
+      - bridge1
+    container_name: my-own-mysql
+  phpmyadmin:
+    image: 761eb34a7d9a
+    networks:
+      - bridge1
+    container_name: my-own-phpmyadmin
+    external_links: 
+      - my-own-mysql:db
+    ports:
+      - "8081:80"      
+  php-apache-dev:
+    image: 28142dc697d0
+    networks:
+      - bridge1
+    container_name: web
+    external_links:
+      - my-own-mysql:mysql
+    ports:
+      - "9000:80"  
+    volumes:
+      - C:\xampp\htdocs\techweb:/app 
+networks:      
+  bridge1:
+    driver: bridge
+    external: true
+    name: bridge1
